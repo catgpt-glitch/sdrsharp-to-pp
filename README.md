@@ -11,14 +11,18 @@ A small Python tool to convert SDR# bookmark file (`Frequencies.xml`) into an SD
 - Input: `Frequencies.xml` (SDR#)
 - Input: `frequency_manager_config.json` (SDR++ base file)
 - Output: `frequency_manager_config.json.new`
+- Mode mapping: NFM=0, WFM=1, AM=2, USB=4, LSB=5
 
 ## Usage (Windows)
-1. Put these files in the same folder:
+1. Place the following files in the same directory:
    - `sdrsharp_to_sdrpp_bookmarks.py`
    - `Frequencies.xml`
    - `frequency_manager_config.json`
 2. Open Command Prompt in that folder.
 3. Run:
+```bash
+python sdrsharp_to_sdrpp_bookmarks.py
+```
 4. A new file will be generated:
    - `frequency_manager_config.json.new`
 5. Replace your SDR++ config file with the new one (make a backup first).
@@ -33,5 +37,5 @@ A small Python tool to convert SDR# bookmark file (`Frequencies.xml`) into an SD
         
 - Keep backups before overwriting any config file.
 
-```bash
-python sdrsharp_to_sdrpp_bookmarks.py
+## Disclaimer
+- This tool is not affiliated with SDR# or SDR++.
