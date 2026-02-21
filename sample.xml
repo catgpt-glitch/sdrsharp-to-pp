@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>80m</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>3573000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>BBC</Name>
+    <GroupName>HF</GroupName>
+    <Frequency>3955000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>BBC</Name>
+    <GroupName>HF</GroupName>
+    <Frequency>6045000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>7,005 kHz CW</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>7005000</Frequency>
+    <DetectorType>CW</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>300</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>7,055 kHz LSB</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>7055000</Frequency>
+    <DetectorType>LSB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>40m</Name>
+    <GroupName>FT8</GroupName>
+    <Frequency>7074000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2400</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB1</Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>26965000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB2</Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>26975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB3</Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>26985000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB4</Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27005000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB5</Name>
+    <GroupName>Citizens Band</GroupName>
+    <Frequency>27015000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>BBC Radio2</Name>
+    <GroupName>FM</GroupName>
+    <Frequency>88800000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>BBC Radio3</Name>
+    <GroupName>FM</GroupName>
+    <Frequency>91300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>ISS</Name>
+    <GroupName>Satellite</GroupName>
+    <Frequency>145800000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>
