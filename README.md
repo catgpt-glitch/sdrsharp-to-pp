@@ -25,3 +25,14 @@ A small Python tool to convert SDR# bookmark file (`Frequencies.xml`) into an SD
 
 ```bash
 python sdrsharp_to_sdrpp_bookmarks.py
+
+
+## Notes / Limitations
+
+- SDR++ may not display Japanese names properly (depends on the SDR++ build/UI).
+    
+- If a category name is missing or duplicated, the tool may use fallback names like:
+    
+    - `no category`, or `(1)`, `(2)` suffixes.
+        
+- Keep backups before overwriting any config file.
