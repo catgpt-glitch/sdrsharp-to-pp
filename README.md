@@ -11,7 +11,7 @@ A small Python tool to convert SDR# bookmark file (`Frequencies.xml`) into an SD
 - Input: `Frequencies.xml` (SDR#)
 - Input: `frequency_manager_config.json` (SDR++ base file)
 - Output: `frequency_manager_config.json.new`
-- Mode mapping: NFM=0, WFM=1, AM=2, USB=4, LSB=5
+- Mode mapping: NFM=0, WFM=1, AM=2, DSB=3, USB=4, LSB=5, CW=6, RAW=7
 - Mode number mapping depends on SDR++ builds/config. If modes don’t match, adjust mapping in the script.
 
 ## Usage (Windows)
